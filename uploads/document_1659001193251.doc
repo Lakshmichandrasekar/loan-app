@@ -1,0 +1,128 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>
+
+
+		
+	<div class="custom-page-header" style="text-align: center;width: 100%">
+		<img src="https://smcreativemedia.in/demo/pvrclinic/uploads/admin/report-header.jpg" style="width: 100%; z-index: 9;">
+	</div>
+<div class="custom-page-footer">
+	<div class="row">
+		<div class="col-xs-12" style="text-align: center;">
+		 
+			<h2 style="font-style: italic;font-family:GreatVibes;color: #d26a0e ! important; font-weight: bold;">
+				Get Well Soon
+			</h2>
+		</div>
+	</div>
+	<div style="">
+		<ul style="border-top: 5px solid #d26a0e ! important;padding-top: 5px;">
+			<li style="text-align: left;font-size: 12px;">
+				The values are provided as guidance for the medical professional only. The values will vary from one laboratory to another.
+			</li>
+			<li style="text-align: left;font-size: 12px;">
+				Laboratory values depends on the age , sex and time of collection sample and vary accordingly.
+			</li>
+			<li style="text-align: left;font-size: 12px;">
+				Laboratory report should not be interpreted in isolation. They should always be correlated with clinica finding and other medical report.
+			</li>
+		</ul>
+	</div>
+</div>
+<table> 
+	<thead>
+		<tr>
+			<td>
+				<div class="custom-page-header-space"></div>
+			</td>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>
+				<div class="page" style="line-height: 3;">
+					<div class="row invoice-info" style="margin-bottom: 5px;margin-top: 15px;">
+						<div class="col-md-12 table-responsive" style="padding-right: 3rem;padding-left: 3rem;">
+							<table class="table table-bordered" style="width: 100%;border: 1px solid #ccc ! important;">
+								<tbody style="">
+									<tr>
+										<td colspan="4" class="text-center" style="text-align: center;">
+											<!-- <img src="https://smcreativemedia.in/demo/pvrclinic/uploads/common/barcode.gif" style="width: 25%;">-->
+										</td>
+									</tr>
+									<tr>
+										<td style="padding: 5px;"><strong> Patient Name :</strong></td>
+										<td style="padding: 5px;">SUBRAMANIYAN</td>
+										<td style="padding: 5px;"><b>Patient ID :</b></td>
+										<td style="padding: 5px;">1012<img src="https://smcreativemedia.in/demo/pvrclinic/uploads/common/barcode.gif" style="width: 25%;"></td>
+									</tr>
+									<tr>
+										<td style="padding: 5px;"><b>Age / Gender :</b></td>
+										<td style="padding: 5px;">45 / Male</td>
+										<td style="padding: 5px;"><b>Collected on :</b></td>
+										<td style="padding: 5px;">Wed 27 Jul, 2022 19:02</td>
+									</tr>
+									<tr>
+										<td style="padding: 5px;"><b>Ref by :</b></td>
+										<td style="padding: 5px;">Dr.S.PalanivelRajan M.B.B.S., M.D(Gen)</td>
+										<td style="padding: 5px;"><b>Reported on :</b></td>
+										<td style="padding: 5px;">Wed 27 Jul, 2022 19:02</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+					<table class="table table-striped" style="padding-right: 3rem;padding-left: 3rem;width: 100%;">
+						<thead>
+							<tr style="margin-bottom: 5px;">
+								<th style=" background-color: #ddd ! important;-webkit-print-color-adjust: exact;padding: 5px;border-top: 3px solid;border-bottom: 3px solid;border-color: white;">Sl. No.<!--</th-->
+								</th><th style=" background-color: #ddd ! important;-webkit-print-color-adjust: exact;padding: 5px;border-top: 3px solid;border-bottom: 3px solid;border-color: white;">Test Name</th>
+								<th style=" background-color: #ddd ! important;-webkit-print-color-adjust: exact;padding: 5px;border-top: 3px solid;border-bottom: 3px solid;border-color: white;">Amount</th>
+								
+							</tr>
+						</thead>
+						<tbody>
+																					<tr>
+								<td style="padding: 5px;">1</td>
+								<td style="padding: 5px;">
+									BLOODSUGAR(F),BLOODSUGAR(PP)								</td>
+								<td style="padding: 5px;">
+									100								</td>
+							</tr>
+																					<tr>
+								<td style="padding: 5px;">2</td>
+								<td style="padding: 5px;">
+									CBC								</td>
+								<td style="padding: 5px;">
+									200								</td>
+							</tr>
+																					<tr>
+								<td style="padding: 5px;">3</td>
+								<td style="padding: 5px;">
+									ESR								</td>
+								<td style="padding: 5px;">
+									50								</td>
+							</tr>
+																				</tbody>
+					</table>
+					<table class="table" style="padding-right: 3rem;padding-left: 3rem;text-align:center;width: 100%;">
+						<tbody><tr>
+							<td colspan="6" class="text-center"> -- End of report -- </td>
+						</tr>
+					</tbody></table>
+					<div class="col-xs-12">
+						<div class="table-responsive">
+							<table class="table" style="margin-top: 35px;padding-right: 3rem;padding-left: 3rem;text-align:right;width: 100%;">
+								<tbody><tr>
+									<td colspan="6" class="text-right"> <b>Lab Technologist</b></td>
+								</tr>
+							</tbody></table>
+						</div>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+
+
+</table></body></html>
