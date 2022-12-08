@@ -1,0 +1,36 @@
+{
+  "name": "loan_application",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "await": "^0.2.6",
+    "aws-sdk": "^2.1175.0",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^3.0.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "date": "^2.0.0",
+    "date-and-time": "^2.4.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "http-status-codes": "^2.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "mongoose": "^5.6.10",
+    "multer": "^1.4.5-lts.1",
+    "reverse-md5": "^0.0.5",
+    "sharp": "^0.30.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
